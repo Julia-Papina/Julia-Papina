@@ -14,6 +14,11 @@
 ![Postman](https://user-images.githubusercontent.com/86494748/158792069-56bb7fa3-5612-494f-82c1-7f30a5b9ba01.png)
 
 
+### 👩‍💻 Мои проекты:
+
+- [Платформа для объединения волонтеров и городских инициатив] (https://github.com/Julia-Papina/better-together/tree/main)
+
+
 
 ### 💬 Связаться со мной: 
  [![Telegram Badge](https://img.shields.io/badge/-juliapapina-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/juliapapina_90)
