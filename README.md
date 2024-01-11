@@ -2,4 +2,5 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
 
 ### 💬 Связаться со мной: 
-[Email](burakova_julia@mail.ru) / [Telegram](https://t.me/juliapapina_90/)<br>
+ [![Telegram Badge](https://img.shields.io/badge/-juliapapina-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/juliapapina_90)
+
