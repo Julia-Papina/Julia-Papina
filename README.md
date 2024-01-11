@@ -15,8 +15,10 @@
 
 
 ### 👩‍💻 Мои проекты:
+<a href="https://github.com/Julia-Papina/better-together/tree/main" target="_blank">&#128900; Платформа для объединения волонтеров и городских инициатив</a>
 
-- [Платформа для объединения волонтеров и городских инициатив] (https://github.com/Julia-Papina/better-together/tree/main)
+<a href="https://github.com/Julia-Papina/movies-explorer-frontend" target="_blank">&#128900; Сервис с фильмами</a>
+
 
 
 
