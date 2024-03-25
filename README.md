@@ -22,7 +22,7 @@
 
 
 ### 👩‍💻 Мои проекты:
-- <a href="https://github.com/Pet-projects-CodePET/Frontend/tree/develop" target="_blank">codePet</a>
+- <a href="https://github.com/Julia-Papina/code-pet" target="_blank">Веб-приложение codePet</a>
 - <a href="https://github.com/Julia-Papina/better-together/tree/main" target="_blank">Платформа для объединения волонтеров и городских инициатив</a>
 - <a href="https://github.com/Julia-Papina/movies-explorer-frontend" target="_blank">Сервис с фильмами</a>
 - <a href="https://github.com/Julia-Papina/burgers-angular?tab=readme-ov-file" target="_blank"> Веб-приложение для заказа бургеров</a>
