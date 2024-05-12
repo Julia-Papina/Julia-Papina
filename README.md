@@ -26,12 +26,6 @@
 ### 👩‍💻 Мои проекты:
 - <a href="https://github.com/Julia-Papina/code-pet" target="_blank">Веб-приложение codePet</a>
 - <a href="https://github.com/Julia-Papina/better-together/tree/main" target="_blank">Платформа для объединения волонтеров и городских инициатив</a>
-- <a href="https://github.com/Julia-Papina/movies-explorer-frontend" target="_blank">Сервис с фильмами</a>
-- <a href="https://github.com/Julia-Papina/burgers-angular?tab=readme-ov-file" target="_blank"> Веб-приложение для заказа бургеров</a>
-- <a href="https://github.com/Julia-Papina/russian-travel" target="_blank">Адаптивный сайт "Путешествие по России"</a>
-- <a href="https://github.com/Julia-Papina/react-mesto-auth" target="_blank">Сервис Mesto (с авторизацией и регистрацией пользователя)</a>
-- <a href="https://github.com/Julia-Papina/how-to-learn" target="_blank">Одностраничный сайт "Научиться учиться"</a>
-
 
 ### 💬 Связаться со мной: 
  [![Telegram Badge](https://img.shields.io/badge/-juliapapina-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/juliapapina_90)
