@@ -26,6 +26,7 @@
 ### 👩‍💻 Мои проекты:
 - <a href="https://github.com/Julia-Papina/code-pet" target="_blank">Веб-приложение codePet</a>
 - <a href="https://github.com/Julia-Papina/better-together/tree/main" target="_blank">Платформа для объединения волонтеров и городских инициатив</a>
+- <a href="https://github.com/Julia-Papina/catalog-goods4you" target="_blank">Online shop Goods4you</a>
 
 ### 💬 Связаться со мной: 
  [![Telegram Badge](https://img.shields.io/badge/-juliapapina-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/juliapapina_90)
